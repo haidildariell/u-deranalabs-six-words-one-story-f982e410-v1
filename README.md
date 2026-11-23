@@ -1,5 +1,11 @@
 # Six Words, One Story — "He sold the piano. She sang."
 
+[![make.fun · u-deranalabs-six-words-one-story-f982e410](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410)
+[![rank](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/haidildariell/u-deranalabs-six-words-one-story-f982e410-v1/rank.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410)
+[![reward](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/haidildariell/u-deranalabs-six-words-one-story-f982e410-v1/reward.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410)
+
+Entry for the [Six Words, One Story bounty on make.fun](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410) — write one complete story in exactly six words. Run it with `python3 main.py`; it writes the story to `/output/entry.txt`.
+
 ## The story
 
 > He sold the piano. She sang.
